@@ -1,0 +1,44 @@
+﻿
+
+header {
+    margin: -10px
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background: black
+}
+
+
+h1 {
+    margin: 6px;
+    color: yellow;
+    margin-right: 25%
+}
+
+.box{
+    display:flex;
+
+}
+
+.item {
+    line-height: 25px;
+    border-radius: 5px;
+    width: 70px;
+    background: yellow;
+    margin-left: 25px;
+    text-align: center
+}
+
+.container-d {
+    background: #848484;
+    padding-bottom: 85%
+}
+
+.container-f {
+    background: black;
+    margin: -10px;
+    padding: 1%;
+}
